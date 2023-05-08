@@ -11,7 +11,7 @@
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/Barthmosz/clean-chsarp-zipcode-validator</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageTags>Zip;Zip Code;Validator;Validation</PackageTags>
+    <PackageTags>Zip;Code;Zip-Code;Validator;Validation</PackageTags>
     <PackageReleaseNotes>Initial release.</PackageReleaseNotes>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
