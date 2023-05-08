@@ -16,5 +16,11 @@ namespace Clean.ZipCodeValidator.Test
         {
             Assert.That(ZipCodeValidator.Validate(""), Is.EqualTo(false));
         }
+
+        [Test, Description("should return true if a valid zip code is provided")]
+        public void ZipCodeValidator_ValidZipCode_ReturnsTrue()
+        {
+            Assert.That(ZipCodeValidator.Validate("24701"), Is.EqualTo(true));
+        }
     }
 }
