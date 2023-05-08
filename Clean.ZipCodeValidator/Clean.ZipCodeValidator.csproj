@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <Title>Clean Zip Code Validator</Title>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>Barthmosz</Authors>
     <Description>A simple and clean zip code validator.</Description>
     <PackageProjectUrl>https://github.com/Barthmosz/clean-chsarp-zipcode-validator</PackageProjectUrl>
